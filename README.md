@@ -6,5 +6,5 @@ Wu et al., International Journal of Solids and Structures, 2013
 http://dx.doi.org/10.1016/j.ijsolstr.2012.10.022
 
 ## Usage
-The code is written for Python 3.6 and requires numpy, scipy, and matplolib. 
+The code is written for Python 3.6 and requires numpy, scipy, and matplotlib. 
 The main.py file runs the code while the bilayer_lpa.py file contains the functions. 
